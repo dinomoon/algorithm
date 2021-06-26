@@ -28,7 +28,7 @@
 | ★★     | [카펫](https://github.com/dinomoon/Algorithm/blob/master/Programmers/카펫.md)                                     |  1   |    2021.06.23    |
 | ★★     | [K번째수](https://github.com/dinomoon/Algorithm/blob/master/Programmers/K번째수.md)                               |  1   |    2021.06.23    |
 | ★★★    | [가장 큰 수](https://github.com/dinomoon/Algorithm/blob/master/Programmers/가장%20큰%20수.md)                     |  1   |    2021.06.23    |
-| ★★★    | [위장](https://github.com/dinomoon/Algorithm/blob/master/Programmers/위장.md)                                     |  1   |    2021.06.23    |
+| ★★★    | [위장](https://github.com/dinomoon/Algorithm/blob/master/Programmers/위장.md)                                     |  2   |    2021.06.26    |
 | ★★★    | [기능개발](https://github.com/dinomoon/Algorithm/blob/master/Programmers/기능개발.md)                             |  1   |    2021.06.23    |
 | ★★★    | [H-Index](https://github.com/dinomoon/Algorithm/blob/master/Programmers/H-Index.md)                               |  1   |    2021.06.23    |
 | ★★★    | [오픈채팅방](https://github.com/dinomoon/Algorithm/blob/master/Programmers/오픈채팅방.md)                         |  1   |    2021.06.24    |
