@@ -1,24 +1,13 @@
-function solution(record) {
-  const userInfo = {};
-  const action = [];
-  const stateMapping = {
-    Enter: '님이 들어왔습니다.',
-    Leave: '님이 나갔습니다.',
-  };
+function solution(n, lost, reserve) {
+  let realLost = lost.filter((v) => !reserve.includes(v));
+  let realReserve = reserve.filter((v) => !lost.includes(v));
 
-  record.forEach((v) => {
-    const [state, id, nick] = v.split(' ');
-
-    if (state !== 'Change') {
-      action.push([state, id]);
-    }
-
-    if (nick) {
-      userInfo[id] = nick;
-    }
-  });
-
-  return action.map(([state, uid]) => {
-    return `${userInfo[uid]}${stateMapping[state]}`;
-  });
+  return (
+    n -
+    realLost.filter((v) => {
+      let bp = realReserve.find((r) => Math.abs(v - r) <= 1);
+      if (!bp) return true;
+      realReserve.filter((r) => r !== bp);
+    }).length
+  );
 }
