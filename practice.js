@@ -1,16 +1,21 @@
-function solution(answers) {
-  let answer = [];
-  const s1 = [1, 2, 3, 4, 5];
-  const s2 = [2, 1, 2, 3, 2, 4, 2, 5];
-  const s3 = [3, 3, 1, 1, 2, 2, 4, 4, 5, 5];
+function solution(progresses, speeds) {
+  let answer = [0];
 
-  const ss1 = answers.filter(
-    (answer, idx) => answer === s1[idx % s1.length],
-  ).length;
+  let days = progresses.map((progress, idx) =>
+    Math.ceil((100 - progress) / speeds[idx]),
+  );
 
-  const max = Math.max(ss1, ss2, ss3);
-
-  if (max === ss1) answer.push(ss1);
+  let maxDay = days[0];
+  for (let i = 0, j = 0; i < days.length; i++) {
+    if (maxDay >= days[i]) {
+      answer[j] += 1;
+    } else {
+      maxDay = days[i];
+      answer[++j] = 1;
+    }
+  }
 
   return answer;
 }
+
+console.log(solution([93, 30, 55], [1, 30, 5]));
