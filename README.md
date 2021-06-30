@@ -2,9 +2,15 @@
 
 ## 책 - 이것이 취업을 위한 코딩 테스트다.
 
-| 분류                                                                                          | 문제                                                                                              |
-| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| [그리디](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/그리디/그리디.md) | [거스름돈](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/그리디/거스름돈.md) |
+| 분류                                                                                          | 문제                                                                                                          |
+| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| [그리디](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/그리디/그리디.md) | [거스름돈](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/그리디/거스름돈.md)             |
+|                                                                                               | [큰 수의 법칙](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/그리디/큰%20수의%20법칙.md) |
+| [구현](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/구현/구현.md)       | [상하좌우](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/구현/상하좌우.md)               |
+|                                                                                               | [시각](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/구현/시각.md)                       |
+|                                                                                               | [왕실의 나이트](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/구현/왕실의%20나이트.md)   |
+
+<br>
 
 ## Programmers
 
