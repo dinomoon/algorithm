@@ -2,13 +2,14 @@
 
 ## 책 - 이것이 취업을 위한 코딩 테스트다.
 
-| 분류                                                                                               | 문제                                                                                                             |
-| -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| [그리디](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/1.%20그리디/그리디.md) | [거스름돈](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/1.%20그리디/거스름돈.md)           |
-|                                                                                                    | [큰 수의 법칙](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/그리디/큰%20수의%20법칙.md)    |
-| [구현](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/2.%20구현/구현.md)       | [상하좌우](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/2.%20구현/상하좌우.md)             |
-|                                                                                                    | [시각](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/2.%20구현/시각.md)                     |
-|                                                                                                    | [왕실의 나이트](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/2.%20구현/왕실의%20나이트.md) |
+| 분류                                                                                                  | 문제                                                                                                               |
+| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| [그리디](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/1.%20그리디/그리디.md)    | [거스름돈](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/1.%20그리디/거스름돈.md)             |
+|                                                                                                       | [큰 수의 법칙](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/1.%20그리디/큰%20수의%20법칙.md) |
+| [구현](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/2.%20구현/구현.md)          | [상하좌우](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/2.%20구현/상하좌우.md)               |
+|                                                                                                       | [시각](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/2.%20구현/시각.md)                       |
+|                                                                                                       | [왕실의 나이트](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/2.%20구현/왕실의%20나이트.md)   |
+| [DFS/BFS](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/3.%20DFS_BFS/DFS_BFS.md) | [상하좌우](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/3.%20DFS_BFS/DFS_BFS.md)             |
 
 <br>
 
@@ -27,7 +28,7 @@
 | ★★     | 조금 고민했지만 혼자 힘으로 풂.    |
 | ★★★    | 손은 댔지만 풀지는 못함.           |
 | ★★★★   | 손은 못댔지만 답을 보면 아 그렇군. |
-| ★★★★★  | 답을 봐도 모르겠음..               |
+| ★★★★★  | 답을 봐도 꽤 생각해야 함           |
 
 <br>
 
@@ -42,16 +43,17 @@
 | ★★★    | [가장 큰 수](https://github.com/dinomoon/Algorithm/blob/master/Programmers/가장%20큰%20수.md)                     |  2   |    2021.06.29    |
 | ★★★    | [위장](https://github.com/dinomoon/Algorithm/blob/master/Programmers/위장.md)                                     |  2   |    2021.06.26    |
 | ★★★    | [기능개발](https://github.com/dinomoon/Algorithm/blob/master/Programmers/기능개발.md)                             |  2   |    2021.06.30    |
-| ★★★    | [H-Index](https://github.com/dinomoon/Algorithm/blob/master/Programmers/H-Index.md)                               |  1   |    2021.06.23    |
+| ★★★    | [H-Index](https://github.com/dinomoon/Algorithm/blob/master/Programmers/H-Index.md)                               |  2   |    2021.07.01    |
 | ★★★    | [오픈채팅방](https://github.com/dinomoon/Algorithm/blob/master/Programmers/오픈채팅방.md)                         |  1   |    2021.06.24    |
-| ★★★    | [행렬 테두리 회전하기](https://github.com/dinomoon/Algorithm/blob/master/Programmers/행렬%20테두리%20회전하기.md) |  0   |    2021.06.24    |
+| ★★★    | [행렬 테두리 회전하기](https://github.com/dinomoon/Algorithm/blob/master/Programmers/행렬%20테두리%20회전하기.md) |  1   |    2021.07.01    |
 | ★★★    | [124나라의 숫자](https://github.com/dinomoon/Algorithm/blob/master/Programmers/124나라의%20숫자.md)               |  0   |    2021.06.25    |
 | ★★★    | [소수 만들기](https://github.com/dinomoon/Algorithm/blob/master/Programmers/소수%20만들기.md)                     |  0   |    2021.06.27    |
 | ★★★★   | [소수 찾기](https://github.com/dinomoon/Algorithm/blob/master/Programmers/소수%20찾기.md)                         |  1   |    2021.06.23    |
 | ★★★★   | [체육복](https://github.com/dinomoon/Algorithm/blob/master/Programmers/체육복.md)                                 |  2   |    2021.06.27    |
 | ★★★★   | [문자열 압축](https://github.com/dinomoon/Algorithm/blob/master/Programmers/문자열%20압축.md)                     |  1   |    2021.06.23    |
-| ★★★★★  | [타겟 넘버](https://github.com/dinomoon/Algorithm/blob/master/Programmers/타겟%20넘버.md)                         |  0   |    2021.06.23    |
+| ★★★★★  | [타겟 넘버](https://github.com/dinomoon/Algorithm/blob/master/Programmers/타겟%20넘버.md)                         |  1   |    2021.07.01    |
 | ★★★★★  | [메뉴 리뉴얼](https://github.com/dinomoon/Algorithm/blob/master/Programmers/메뉴%20리뉴얼.md)                     |  0   |    2021.06.24    |
+| ★★★★★  | [순위 검색](https://github.com/dinomoon/Algorithm/blob/master/Programmers/순위%20검색.md)                         |  0   |    2021.07.01    |
 
 <br>
 
