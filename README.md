@@ -40,6 +40,7 @@
 | ★★     | [카펫](https://github.com/dinomoon/Algorithm/blob/master/Programmers/카펫.md)                                     |  2   |    2021.06.29    |
 | ★★     | [K번째수](https://github.com/dinomoon/Algorithm/blob/master/Programmers/K번째수.md)                               |  2   |    2021.06.29    |
 | ★★     | [키패드 누르기](https://github.com/dinomoon/Algorithm/blob/master/Programmers/키패드%20누르기.md)                 |  2   |    2021.06.28    |
+| ★★     | [베스트 앨범](https://github.com/dinomoon/Algorithm/blob/master/Programmers/베스트%20앨범.md)                     |  0   |    2021.07.02    |
 | ★★★    | [가장 큰 수](https://github.com/dinomoon/Algorithm/blob/master/Programmers/가장%20큰%20수.md)                     |  2   |    2021.06.29    |
 | ★★★    | [위장](https://github.com/dinomoon/Algorithm/blob/master/Programmers/위장.md)                                     |  2   |    2021.06.26    |
 | ★★★    | [기능개발](https://github.com/dinomoon/Algorithm/blob/master/Programmers/기능개발.md)                             |  2   |    2021.06.30    |
@@ -48,11 +49,12 @@
 | ★★★    | [행렬 테두리 회전하기](https://github.com/dinomoon/Algorithm/blob/master/Programmers/행렬%20테두리%20회전하기.md) |  1   |    2021.07.01    |
 | ★★★    | [124나라의 숫자](https://github.com/dinomoon/Algorithm/blob/master/Programmers/124나라의%20숫자.md)               |  0   |    2021.06.25    |
 | ★★★    | [소수 만들기](https://github.com/dinomoon/Algorithm/blob/master/Programmers/소수%20만들기.md)                     |  0   |    2021.06.27    |
+| ★★★    | [다리를 지나는 트럭](https://github.com/dinomoon/Algorithm/blob/master/Programmers/다리를%20지나는%20트럭.md)     |  0   |    2021.07.02    |
 | ★★★★   | [소수 찾기](https://github.com/dinomoon/Algorithm/blob/master/Programmers/소수%20찾기.md)                         |  1   |    2021.06.23    |
 | ★★★★   | [체육복](https://github.com/dinomoon/Algorithm/blob/master/Programmers/체육복.md)                                 |  2   |    2021.06.27    |
 | ★★★★   | [문자열 압축](https://github.com/dinomoon/Algorithm/blob/master/Programmers/문자열%20압축.md)                     |  1   |    2021.06.23    |
 | ★★★★★  | [타겟 넘버](https://github.com/dinomoon/Algorithm/blob/master/Programmers/타겟%20넘버.md)                         |  1   |    2021.07.01    |
-| ★★★★★  | [메뉴 리뉴얼](https://github.com/dinomoon/Algorithm/blob/master/Programmers/메뉴%20리뉴얼.md)                     |  0   |    2021.06.24    |
+| ★★★★★  | [메뉴 리뉴얼](https://github.com/dinomoon/Algorithm/blob/master/Programmers/메뉴%20리뉴얼.md)                     |  1   |    2021.07.02    |
 | ★★★★★  | [순위 검색](https://github.com/dinomoon/Algorithm/blob/master/Programmers/순위%20검색.md)                         |  0   |    2021.07.01    |
 
 <br>

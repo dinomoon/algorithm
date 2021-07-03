@@ -1,80 +1,42 @@
-function solution(info, query) {
-  const answer = [];
-  const infoMap = {};
+function solution(genres, plays) {
+  let answer = [];
+  let obj = {};
+  let countArr = [];
 
-  function combination(array, score, start) {
-    const key = array.join('');
-    const value = infoMap[key];
+  genres.forEach((genre, idx) => {
+    const newItem = {
+      id: idx,
+      play: plays[idx],
+    };
 
-    if (value) {
-      infoMap[key].push(score);
+    if (!obj[genre]) {
+      obj[genre] = [newItem];
     } else {
-      infoMap[key] = [score];
+      obj[genre].push(newItem);
     }
+  });
 
-    for (let i = start; i < array.length; i++) {
-      const temp = [...array];
-      temp[i] = '-';
-      combination(temp, score, i + 1);
+  for (let v in obj) {
+    let count = 0;
+    for (let item of obj[v]) {
+      count += item.play;
     }
+    countArr.push({ genre: v, count });
   }
+  countArr.sort((a, b) => b.count - a.count);
 
-  for (const e of info) {
-    const splited = e.split(' ');
-    const score = Number(splited.pop());
-    combination(splited, score, 0);
+  for (let genreObj of countArr) {
+    let genreInfo = obj[genreObj.genre];
+    genreInfo.sort((a, b) => b.play - a.play);
+    answer.push(genreInfo[0].id);
+    answer.push(genreInfo[1].id);
   }
-
-  for (const key in infoMap) {
-    infoMap[key] = infoMap[key].sort((a, b) => a - b);
-  }
-
-  for (const e of query) {
-    const splited = e.replace(/ and /g, ' ').split(' ');
-    const score = Number(splited.pop());
-    const key = splited.join('');
-    const array = infoMap[key];
-
-    if (array) {
-      let start = 0;
-      let end = array.length;
-      while (start < end) {
-        const mid = Math.floor((start + end) / 2);
-
-        if (array[mid] >= score) {
-          end = mid;
-        } else if (array[mid] < score) {
-          start = mid + 1;
-        }
-      }
-
-      const result = array.length - start;
-      answer.push(result);
-    } else {
-      answer.push(0);
-    }
-  }
-
   return answer;
 }
 
 console.log(
   solution(
-    [
-      'java backend junior pizza 150',
-      'python frontend senior chicken 210',
-      'python frontend senior chicken 150',
-      'cpp backend senior pizza 260',
-      'java backend junior chicken 80',
-      'python backend senior chicken 50',
-    ],
-    [
-      'java and backend and junior and pizza 100',
-      'python and frontend and senior and chicken 200',
-      'cpp and - and senior and pizza 250',
-      '- and backend and senior and - 150',
-      '- and - and - and chicken 100',
-      '- and - and - and - 150',
-    ],
+    ['classic', 'pop', 'classic', 'classic', 'pop'],
+    [500, 600, 150, 800, 2500],
   ),
 );
