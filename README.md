@@ -47,9 +47,10 @@
 | ★★★    | [H-Index](https://github.com/dinomoon/Algorithm/blob/master/Programmers/H-Index.md)                               |  2   |    2021.07.01    |
 | ★★★    | [오픈채팅방](https://github.com/dinomoon/Algorithm/blob/master/Programmers/오픈채팅방.md)                         |  1   |    2021.06.24    |
 | ★★★    | [행렬 테두리 회전하기](https://github.com/dinomoon/Algorithm/blob/master/Programmers/행렬%20테두리%20회전하기.md) |  1   |    2021.07.01    |
-| ★★★    | [124나라의 숫자](https://github.com/dinomoon/Algorithm/blob/master/Programmers/124나라의%20숫자.md)               |  0   |    2021.06.25    |
-| ★★★    | [소수 만들기](https://github.com/dinomoon/Algorithm/blob/master/Programmers/소수%20만들기.md)                     |  0   |    2021.06.27    |
+| ★★★    | [124나라의 숫자](https://github.com/dinomoon/Algorithm/blob/master/Programmers/124나라의%20숫자.md)               |  1   |    2021.07.04    |
+| ★★★    | [소수 만들기](https://github.com/dinomoon/Algorithm/blob/master/Programmers/소수%20만들기.md)                     |  1   |    2021.07.04    |
 | ★★★    | [다리를 지나는 트럭](https://github.com/dinomoon/Algorithm/blob/master/Programmers/다리를%20지나는%20트럭.md)     |  0   |    2021.07.02    |
+| ★★★    | [구명보트](https://github.com/dinomoon/Algorithm/blob/master/Programmers/다리를%20지나는%20트럭.md)               |  0   |    2021.07.04    |
 | ★★★★   | [소수 찾기](https://github.com/dinomoon/Algorithm/blob/master/Programmers/소수%20찾기.md)                         |  1   |    2021.06.23    |
 | ★★★★   | [체육복](https://github.com/dinomoon/Algorithm/blob/master/Programmers/체육복.md)                                 |  2   |    2021.06.27    |
 | ★★★★   | [문자열 압축](https://github.com/dinomoon/Algorithm/blob/master/Programmers/문자열%20압축.md)                     |  1   |    2021.06.23    |
