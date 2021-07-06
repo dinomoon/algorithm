@@ -51,7 +51,7 @@
 | ★★★    | [소수 만들기](https://github.com/dinomoon/Algorithm/blob/master/Programmers/소수%20만들기.md)                     |  1   |    2021.07.04    |
 | ★★★    | [다리를 지나는 트럭](https://github.com/dinomoon/Algorithm/blob/master/Programmers/다리를%20지나는%20트럭.md)     |  0   |    2021.07.02    |
 | ★★★    | [구명보트](https://github.com/dinomoon/Algorithm/blob/master/Programmers/다리를%20지나는%20트럭.md)               |  0   |    2021.07.04    |
-| ★★★★   | [소수 찾기](https://github.com/dinomoon/Algorithm/blob/master/Programmers/소수%20찾기.md)                         |  1   |    2021.06.23    |
+| ★★★★   | [소수 찾기](https://github.com/dinomoon/Algorithm/blob/master/Programmers/소수%20찾기.md)                         |  2   |    2021.07.06    |
 | ★★★★   | [체육복](https://github.com/dinomoon/Algorithm/blob/master/Programmers/체육복.md)                                 |  2   |    2021.06.27    |
 | ★★★★   | [문자열 압축](https://github.com/dinomoon/Algorithm/blob/master/Programmers/문자열%20압축.md)                     |  1   |    2021.06.23    |
 | ★★★★★  | [타겟 넘버](https://github.com/dinomoon/Algorithm/blob/master/Programmers/타겟%20넘버.md)                         |  1   |    2021.07.01    |
