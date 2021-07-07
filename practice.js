@@ -1,42 +1,34 @@
-function solution(genres, plays) {
-  let answer = [];
-  let obj = {};
-  let countArr = [];
+function solution(s) {
+  let answer = 0;
+  let repeat = s.length;
+  let arrForNewStr = [];
 
-  genres.forEach((genre, idx) => {
-    const newItem = {
-      id: idx,
-      play: plays[idx],
-    };
+  for (let i = 0; i < repeat / 2; i++) {
+    let num = i + 1;
+    let count = 1;
+    let newStr = '';
+    for (let j = 0; j < s.length; j = j + num) {
+      let currentSub = s.substring(j, j + num);
+      let nextSub = s.substring(j + num, j + num + num);
 
-    if (!obj[genre]) {
-      obj[genre] = [newItem];
-    } else {
-      obj[genre].push(newItem);
+      if (currentSub === nextSub) {
+        count++;
+      } else {
+        if (count === 1) {
+          newStr += currentSub;
+        } else {
+          newStr += count + currentSub;
+        }
+        count = 1;
+      }
     }
-  });
 
-  for (let v in obj) {
-    let count = 0;
-    for (let item of obj[v]) {
-      count += item.play;
-    }
-    countArr.push({ genre: v, count });
+    arrForNewStr.push(newStr.length);
   }
-  countArr.sort((a, b) => b.count - a.count);
 
-  for (let genreObj of countArr) {
-    let genreInfo = obj[genreObj.genre];
-    genreInfo.sort((a, b) => b.play - a.play);
-    answer.push(genreInfo[0].id);
-    answer.push(genreInfo[1].id);
-  }
+  answer = Math.min(...arrForNewStr);
+
   return answer;
 }
 
-console.log(
-  solution(
-    ['classic', 'pop', 'classic', 'classic', 'pop'],
-    [500, 600, 150, 800, 2500],
-  ),
-);
+console.log(solution('aabbaccc'));
