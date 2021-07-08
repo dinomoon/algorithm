@@ -64,4 +64,4 @@
 
 | 난이도 | 문제                                                                           | 복습 | 마지막으로 푼 날 |
 | ------ | ------------------------------------------------------------------------------ | :--: | :--------------: |
-| ★★★    | [주유소](https://github.com/dinomoon/Algorithm/blob/master/Baekjoon/주유소.md) |  0   |    2021.06.29    |
+| ★★★    | [주유소](https://github.com/dinomoon/Algorithm/blob/master/Baekjoon/주유소.md) |  1   |    2021.07.08    |
