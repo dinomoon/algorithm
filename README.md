@@ -32,15 +32,15 @@
 
 <br>
 
-| 난이도 | 문제                                                                                                              | 복습 | 마지막으로 푼 날 |
-| ------ | ----------------------------------------------------------------------------------------------------------------- | :--: | :--------------: |
+| 난이도 | 문제                                                                                                              | 복습 | 마지막으로 푼 날 | 비고                     |
+| ------ | ----------------------------------------------------------------------------------------------------------------- | :--: | :--------------: | ------------------------ |
 | ★★     | [K번째수](https://github.com/dinomoon/Algorithm/blob/master/Programmers/K번째수.md)                               |  2   |    2021.06.28    |
 | ★★     | [완주하지 못한 선수](https://github.com/dinomoon/Algorithm/blob/master/Programmers/완주하지%20못한%20선수.md)     |  2   |    2021.06.28    |
 | ★★     | [모의고사](https://github.com/dinomoon/Algorithm/blob/master/Programmers/모의고사.md)                             |  2   |    2021.06.29    |
 | ★★     | [카펫](https://github.com/dinomoon/Algorithm/blob/master/Programmers/카펫.md)                                     |  2   |    2021.06.29    |
 | ★★     | [K번째수](https://github.com/dinomoon/Algorithm/blob/master/Programmers/K번째수.md)                               |  2   |    2021.06.29    |
 | ★★     | [키패드 누르기](https://github.com/dinomoon/Algorithm/blob/master/Programmers/키패드%20누르기.md)                 |  2   |    2021.06.28    |
-| ★★     | [베스트 앨범](https://github.com/dinomoon/Algorithm/blob/master/Programmers/베스트%20앨범.md)                     |  0   |    2021.07.02    |
+| ★★     | [베스트 앨범](https://github.com/dinomoon/Algorithm/blob/master/Programmers/베스트%20앨범.md)                     |  1   |    2021.07.10    | 다른 사람 풀이 이해 안됨 |
 | ★★★    | [가장 큰 수](https://github.com/dinomoon/Algorithm/blob/master/Programmers/가장%20큰%20수.md)                     |  2   |    2021.06.29    |
 | ★★★    | [위장](https://github.com/dinomoon/Algorithm/blob/master/Programmers/위장.md)                                     |  2   |    2021.06.26    |
 | ★★★    | [기능개발](https://github.com/dinomoon/Algorithm/blob/master/Programmers/기능개발.md)                             |  2   |    2021.06.30    |
