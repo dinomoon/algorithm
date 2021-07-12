@@ -53,6 +53,7 @@
 | ★★★    | [구명보트](https://github.com/dinomoon/Algorithm/blob/master/Programmers/다리를%20지나는%20트럭.md)               |  0   |    2021.07.04    |
 | ★★★    | [거리두기 확인하기](https://github.com/dinomoon/Algorithm/blob/master/Programmers/거리두기%20확인하기.md)         |  0   |    푸는 중..     |
 | ★★★    | [큰 수 만들기](https://github.com/dinomoon/Algorithm/blob/master/Programmers/큰%20수%20만들기.md)                 |  0   |    2021.07.11    |
+| ★★★    | [프린터](https://github.com/dinomoon/Algorithm/blob/master/Programmers/프린터.md)                                 |  1   |    2021.07.12    |
 | ★★★★   | [소수 찾기](https://github.com/dinomoon/Algorithm/blob/master/Programmers/소수%20찾기.md)                         |  2   |    2021.07.06    |
 | ★★★★   | [체육복](https://github.com/dinomoon/Algorithm/blob/master/Programmers/체육복.md)                                 |  2   |    2021.06.27    |
 | ★★★★   | [문자열 압축](https://github.com/dinomoon/Algorithm/blob/master/Programmers/문자열%20압축.md)                     |  2   |    2021.07.07    |
