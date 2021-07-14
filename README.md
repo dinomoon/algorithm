@@ -46,7 +46,7 @@
 | ★★★    | [기능개발](https://github.com/dinomoon/Algorithm/blob/master/Programmers/기능개발.md)                             |  2   |    2021.06.30    |
 | ★★★    | [H-Index](https://github.com/dinomoon/Algorithm/blob/master/Programmers/H-Index.md)                               |  2   |    2021.07.01    |
 | ★★★    | [오픈채팅방](https://github.com/dinomoon/Algorithm/blob/master/Programmers/오픈채팅방.md)                         |  2   |    2021.07.07    |
-| ★★★    | [행렬 테두리 회전하기](https://github.com/dinomoon/Algorithm/blob/master/Programmers/행렬%20테두리%20회전하기.md) |  1   |    2021.07.01    |
+| ★★★    | [행렬 테두리 회전하기](https://github.com/dinomoon/Algorithm/blob/master/Programmers/행렬%20테두리%20회전하기.md) |  2   |    2021.07.14    |
 | ★★★    | [124나라의 숫자](https://github.com/dinomoon/Algorithm/blob/master/Programmers/124나라의%20숫자.md)               |  1   |    2021.07.04    |
 | ★★★    | [소수 만들기](https://github.com/dinomoon/Algorithm/blob/master/Programmers/소수%20만들기.md)                     |  1   |    2021.07.04    |
 | ★★★    | [다리를 지나는 트럭](https://github.com/dinomoon/Algorithm/blob/master/Programmers/다리를%20지나는%20트럭.md)     |  1   |    2021.07.09    |
