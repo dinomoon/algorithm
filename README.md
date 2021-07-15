@@ -59,7 +59,7 @@
 | ★★★★   | [문자열 압축](https://github.com/dinomoon/Algorithm/blob/master/Programmers/문자열%20압축.md)                     |  2   |    2021.07.07    |
 | ★★★★★  | [타겟 넘버](https://github.com/dinomoon/Algorithm/blob/master/Programmers/타겟%20넘버.md)                         |  1   |    2021.07.01    |
 | ★★★★★  | [메뉴 리뉴얼](https://github.com/dinomoon/Algorithm/blob/master/Programmers/메뉴%20리뉴얼.md)                     |  1   |    2021.07.02    |
-| ★★★★★  | [순위 검색](https://github.com/dinomoon/Algorithm/blob/master/Programmers/순위%20검색.md)                         |  0   |    2021.07.01    |
+| ★★★★★  | [순위 검색](https://github.com/dinomoon/Algorithm/blob/master/Programmers/순위%20검색.md)                         |  1   |    2021.07.15    |
 
 <br>
 
