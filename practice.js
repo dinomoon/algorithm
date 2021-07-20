@@ -1,34 +1,21 @@
-function solution(s) {
-  let answer = 0;
-  let repeat = s.length;
-  let arrForNewStr = [];
+/*
+  const fs = require('fs');
+  let input = require('fs').readFileSync('/dev/stdin').toString();
+*/
 
-  for (let i = 0; i < repeat / 2; i++) {
-    let num = i + 1;
-    let count = 1;
-    let newStr = '';
-    for (let j = 0; j < s.length; j = j + num) {
-      let currentSub = s.substring(j, j + num);
-      let nextSub = s.substring(j + num, j + num + num);
+let input = +require('fs').readFileSync('./input.txt').toString();
 
-      if (currentSub === nextSub) {
-        count++;
-      } else {
-        if (count === 1) {
-          newStr += currentSub;
-        } else {
-          newStr += count + currentSub;
-        }
-        count = 1;
-      }
-    }
+let num = input;
+let sum;
+let i = 0;
 
-    arrForNewStr.push(newStr.length);
-  }
+while (true) {
+  i++;
 
-  answer = Math.min(...arrForNewStr);
+  sum = Math.floor(num / 10) + (num % 10);
+  num = (num % 10) * 10 + (sum % 10);
 
-  return answer;
+  if (input === num) break;
 }
 
-console.log(solution('aabbaccc'));
+console.log(i);
