@@ -3,19 +3,20 @@
   let input = require('fs').readFileSync('/dev/stdin').toString();
 */
 
-let input = +require('fs').readFileSync('./input.txt').toString();
+let input = require('fs').readFileSync('./input.txt').toString().split('\n');
+const N = +input[0];
 
-let num = input;
-let sum;
-let i = 0;
+for (let i = 1; i <= N; i++) {
+  let arr = input[i].split(' ').map(Number);
+  let C = arr[0];
 
-while (true) {
-  i++;
+  arr.splice(0, 1);
+  let sum = arr.reduce((a, b) => a + b);
+  let avg = sum / C;
 
-  sum = Math.floor(num / 10) + (num % 10);
-  num = (num % 10) * 10 + (sum % 10);
-
-  if (input === num) break;
+  let count = 0;
+  for (let j = 0; j < C; j++) {
+    if (arr[j] > avg) count++;
+  }
+  console.log(((count / arr.length) * 100).toFixed(3) + '%');
 }
-
-console.log(i);
