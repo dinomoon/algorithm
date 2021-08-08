@@ -54,7 +54,7 @@
 | ★★★    | [다리를 지나는 트럭](https://github.com/dinomoon/Algorithm/blob/master/Programmers/다리를%20지나는%20트럭.md)     |  2   |    2021.07.26    |
 | ★★★    | [구명보트](https://github.com/dinomoon/Algorithm/blob/master/Programmers/구명보트.md)                             |  2   |    2021.07.28    |
 | ★★★    | [거리두기 확인하기](https://github.com/dinomoon/Algorithm/blob/master/Programmers/거리두기%20확인하기.md)         |  0   |    푸는 중..     |
-| ★★★    | [큰 수 만들기](https://github.com/dinomoon/Algorithm/blob/master/Programmers/큰%20수%20만들기.md)                 |  1   |    2021.07.19    |
+| ★★★    | [큰 수 만들기](https://github.com/dinomoon/Algorithm/blob/master/Programmers/큰%20수%20만들기.md)                 |  2   |    2021.08.08    |
 | ★★★    | [프린터](https://github.com/dinomoon/Algorithm/blob/master/Programmers/프린터.md)                                 |  1   |    2021.07.12    |
 | ★★★    | [스킬트리](https://github.com/dinomoon/Algorithm/blob/master/Programmers/스킬트리.md)                             |  0   |    2021.07.17    |
 | ★★★    | [영어 끝말잇기](https://github.com/dinomoon/Algorithm/blob/master/Programmers/영어%끝말잇기.md)                   |  0   |    2021.07.18    |
