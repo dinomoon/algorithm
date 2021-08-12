@@ -73,4 +73,4 @@
 | ------ | ---------------------------------------------------------------------------------------------- | :--: | :--------------: |
 | ★★★    | [주유소](https://github.com/dinomoon/Algorithm/blob/master/Baekjoon/주유소.md)                 |  1   |    2021.07.08    |
 | ★★★    | [더하기 사이클](https://github.com/dinomoon/Algorithm/blob/master/Baekjoon/더하기%20사이클.md) |  1   |    2021.08.11    |
-| ★★★    | [셀프 넘버](https://github.com/dinomoon/Algorithm/blob/master/Baekjoon/셀프%20넘버.md)         |  0   |    2021.07.21    |
+| ★★★    | [셀프 넘버](https://github.com/dinomoon/Algorithm/blob/master/Baekjoon/셀프%20넘버.md)         |  1   |    2021.08.12    |
