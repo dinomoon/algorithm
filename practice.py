@@ -1,9 +1,10 @@
-n, m = map(int, input().split())
-result = 0
+n = int(input())
 
+array = []
 for i in range(n):
-  data = list(map(int, input().split()))
-  min_value = min(data)
-  result = max(result, min_value)
+  array.append(int(input()))
 
-print(result)
+array = sorted(array, reverse=True)
+
+for i in array:
+  print(i, end=' ')
