@@ -14,7 +14,7 @@
 |                                                                                                            | [상하좌우](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/2.%20구현/상하좌우.md)                        |
 | [DFS/BFS](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/3.%20DFS_BFS/README.md)       | [음료수 얼려 먹기](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/3.%20DFS_BFS/음료수%20얼려%20먹기.md) |
 | [정렬](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/4.%20정렬/README.md)             |                                                                                                                             |
-| [이진 탐색](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/5.%20이진%20탐색/README.md) |                                                                                                                             |
+| [이진 탐색](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/5.%20이진%20탐색/README.md) | [부품 찾기](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/5.%20이진%20탐색/부품%20찾기.md)             |
 
 <br>
 
