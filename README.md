@@ -2,19 +2,20 @@
 
 ## 책 - 이것이 취업을 위한 코딩 테스트다.
 
-| 분류                                                                                                       | 문제                                                                                                                        |
-| ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| [그리디](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/1.%20그리디/README.md)         | [거스름돈](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/1.%20그리디/거스름돈.md)                      |
-|                                                                                                            | [큰 수의 법칙](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/1.%20그리디/큰%20수의%20법칙.md)          |
-|                                                                                                            | [숫자 카드 게임](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/1.%20그리디/숫자%20카드%20게임.md)      |
-|                                                                                                            | [1이 될 때까지](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/1.%20그리디/1이%20될%20때까지.md)        |
-| [구현](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/2.%20구현/README.md)             | [상하좌우](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/2.%20구현/상하좌우.md)                        |
-|                                                                                                            | [시각](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/2.%20구현/시각.md)                                |
-|                                                                                                            | [왕실의 나이트](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/2.%20구현/왕실의%20나이트.md)            |
-|                                                                                                            | [상하좌우](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/2.%20구현/상하좌우.md)                        |
-| [DFS/BFS](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/3.%20DFS_BFS/README.md)       | [음료수 얼려 먹기](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/3.%20DFS_BFS/음료수%20얼려%20먹기.md) |
-| [정렬](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/4.%20정렬/README.md)             |                                                                                                                             |
-| [이진 탐색](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/5.%20이진%20탐색/README.md) | [부품 찾기](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/5.%20이진%20탐색/부품%20찾기.md)             |
+| 분류                                                                                                                           | 문제                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
+| [그리디](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/1.%20그리디/README.md)                             | [거스름돈](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/1.%20그리디/거스름돈.md)                      |
+|                                                                                                                                | [큰 수의 법칙](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/1.%20그리디/큰%20수의%20법칙.md)          |
+|                                                                                                                                | [숫자 카드 게임](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/1.%20그리디/숫자%20카드%20게임.md)      |
+|                                                                                                                                | [1이 될 때까지](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/1.%20그리디/1이%20될%20때까지.md)        |
+| [구현](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/2.%20구현/README.md)                                 | [상하좌우](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/2.%20구현/상하좌우.md)                        |
+|                                                                                                                                | [시각](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/2.%20구현/시각.md)                                |
+|                                                                                                                                | [왕실의 나이트](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/2.%20구현/왕실의%20나이트.md)            |
+|                                                                                                                                | [상하좌우](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/2.%20구현/상하좌우.md)                        |
+| [DFS/BFS](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/3.%20DFS_BFS/README.md)                           | [음료수 얼려 먹기](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/3.%20DFS_BFS/음료수%20얼려%20먹기.md) |
+| [정렬](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/4.%20정렬/README.md)                                 |                                                                                                                             |
+| [이진 탐색](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/5.%20이진%20탐색/README.md)                     | [부품 찾기](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/5.%20이진%20탐색/부품%20찾기.md)             |
+| [다이나믹 프로그래밍](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/6.%20다이나믹%20프로그래밍/README.md) |                                                                                                                             |
 
 <br>
 
