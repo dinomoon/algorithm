@@ -31,5 +31,4 @@ async function process() {
   console.log(await getRabbit());
   console.log(await getTurtle());
 }
-
 process();
