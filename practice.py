@@ -1,10 +1,14 @@
-d = [0] * 100
+def solution(t, k):
+  result  = 0
+  while k != 0:
+    for i in range(len(t)):
+      if t[i] != 0:
+        t[i] -= 1
+      else:
+        t[i + 1] -= 1
+      k -= 1
+      result = i
 
-d[1] = 1
-d[2] = 1
-n = 99
+  print(result)
 
-for i in range(3, n + 1):
-  d[i] = d[i - 1] + d[i - 2]
-
-print(d[n])
+solution([3, 1, 2], 5)
