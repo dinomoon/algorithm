@@ -59,7 +59,7 @@
 | ★★★    | [위장](https://github.com/dinomoon/Algorithm/blob/master/Programmers/위장.md)                                     |  2   |    2021.06.26    |
 | ★★★    | [기능개발](https://github.com/dinomoon/Algorithm/blob/master/Programmers/기능개발.md)                             |  2   |    2021.06.30    |
 | ★★★    | [H-Index](https://github.com/dinomoon/Algorithm/blob/master/Programmers/H-Index.md)                               |  2   |    2021.07.01    |
-| ★★★    | [오픈채팅방](https://github.com/dinomoon/Algorithm/blob/master/Programmers/오픈채팅방.md)                         |  2   |    2021.07.07    |
+| ★★★    | [오픈채팅방](https://github.com/dinomoon/Algorithm/blob/master/Programmers/오픈채팅방.md)                         |  3   |    2021.08.28    |
 | ★★★    | [행렬 테두리 회전하기](https://github.com/dinomoon/Algorithm/blob/master/Programmers/행렬%20테두리%20회전하기.md) |  2   |    2021.07.14    |
 | ★★★    | [124나라의 숫자](https://github.com/dinomoon/Algorithm/blob/master/Programmers/124나라의%20숫자.md)               |  2   |    2021.07.24    |
 | ★★★    | [소수 만들기](https://github.com/dinomoon/Algorithm/blob/master/Programmers/소수%20만들기.md)                     |  2   |    2021.07.16    |
@@ -86,6 +86,8 @@
 | ★★★    | [주유소](https://github.com/dinomoon/Algorithm/blob/master/Baekjoon/주유소.md)                 |  1   |    2021.07.08    |
 | ★★★    | [더하기 사이클](https://github.com/dinomoon/Algorithm/blob/master/Baekjoon/더하기%20사이클.md) |  1   |    2021.08.11    |
 | ★★★    | [셀프 넘버](https://github.com/dinomoon/Algorithm/blob/master/Baekjoon/셀프%20넘버.md)         |  1   |    2021.08.12    |
+
+<br>
 
 ## 강의
 

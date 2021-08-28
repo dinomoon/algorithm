@@ -1,15 +1,15 @@
-function solution(a, b, c) {
-  let answer = 'NO',
-    max;
-  let sum = a + b + c;
+// for of
+// map, filter, reduce
+// toUpperCase, toLowerCase
+// substring, substr
+// indexOf
 
-  if (a > b) max = a;
-  else max = b;
-  if (c > max) max = c;
+function solution(arr) {
+  let answer;
 
-  if (sum - max > max) answer = 'YES';
+  answer = arr.filter((v, i) => arr.indexOf(v) === i);
 
   return answer;
 }
 
-console.log(solution(13, 33, 17));
+console.log(solution(['good', 'time', 'good', 'time', 'student']));
