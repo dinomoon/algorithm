@@ -1,33 +1,45 @@
-function solution(arr) {
-  let answer = 0;
-  let n = arr.length;
+function solution(str, s) {
+  let answer = [];
+  let left = 0;
+  let right = 0;
 
-  let dx = [-1, 0, 1, 0];
-  let dy = [0, 1, 0, -1];
-
-  for (let i = 0; i < n; i++) {
-    for (let j = 0; j < n; j++) {
-      let flag = 1;
-      for (let k = 0; k < 4; k++) {
-        let nx = dx[k] + i;
-        let ny = dy[k] + j;
-        if (0 <= nx && nx < n && 0 <= ny && ny < n && arr[i][j] < arr[nx][ny]) {
-          flag = 0;
-          break;
-        }
+  for (let i = 0; i < str.length; i++) {
+    if (str[i] === s) {
+      answer.push(0);
+      continue;
+    }
+    left = 0;
+    right = 0;
+    let leftIdx = i - 1;
+    let rightIdx = i + 1;
+    // left
+    while (leftIdx >= 0) {
+      left++;
+      if (str[leftIdx] === s) {
+        break;
       }
-      if (flag) answer++;
+      leftIdx--;
+    }
+
+    // right
+    while (rightIdx < str.length) {
+      right++;
+      if (str[rightIdx] === s) {
+        break;
+      }
+      rightIdx++;
+    }
+
+    if (left === 0) {
+      answer.push(right);
+    } else if (right === 0) {
+      answer.push(left);
+    } else {
+      answer.push(Math.min(left, right));
     }
   }
 
   return answer;
 }
-
-let arr = [
-  [5, 3, 7, 2, 3],
-  [3, 7, 1, 6, 1],
-  [7, 2, 5, 3, 4],
-  [4, 3, 6, 4, 1],
-  [8, 7, 3, 5, 2],
-];
-console.log(solution(arr));
+let str = 'teachermode';
+console.log(solution(str, 'e'));
