@@ -1,45 +1,35 @@
-function solution(str, s) {
-  let answer = [];
-  let left = 0;
-  let right = 0;
+function solution(arr) {
+  let answer = 0;
+  let m = arr.length;
+  let n = arr[0].length;
+  let tmp = [];
 
-  for (let i = 0; i < str.length; i++) {
-    if (str[i] === s) {
-      answer.push(0);
-      continue;
-    }
-    left = 0;
-    right = 0;
-    let leftIdx = i - 1;
-    let rightIdx = i + 1;
-    // left
-    while (leftIdx >= 0) {
-      left++;
-      if (str[leftIdx] === s) {
-        break;
+  for (let i = 1; i <= n; i++) {
+    for (let j = 1; j <= n; j++) {
+      let cnt = 0;
+      for (let k = 0; k < m; k++) {
+        let pi = 0;
+        let pj = 0;
+        for (let s = 0; s < n; s++) {
+          if (arr[k][s] === i) pi = s;
+          if (arr[k][s] === j) pj = s;
+        }
+        if (pi < pj) cnt++;
       }
-      leftIdx--;
-    }
-
-    // right
-    while (rightIdx < str.length) {
-      right++;
-      if (str[rightIdx] === s) {
-        break;
+      if (cnt === m) {
+        tmp.push([i, j]);
+        answer++;
       }
-      rightIdx++;
-    }
-
-    if (left === 0) {
-      answer.push(right);
-    } else if (right === 0) {
-      answer.push(left);
-    } else {
-      answer.push(Math.min(left, right));
     }
   }
 
+  console.log(tmp);
   return answer;
 }
-let str = 'teachermode';
-console.log(solution(str, 'e'));
+
+let arr = [
+  [3, 4, 1, 2],
+  [4, 3, 2, 1],
+  [3, 1, 4, 2],
+];
+console.log(solution(arr));
