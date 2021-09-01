@@ -1,35 +1,25 @@
-function solution(arr) {
+function solution(m, arr) {
   let answer = 0;
-  let m = arr.length;
-  let n = arr[0].length;
-  let tmp = [];
+  let lt = 0;
+  let rt = 0;
+  let sum = arr[lt];
 
-  for (let i = 1; i <= n; i++) {
-    for (let j = 1; j <= n; j++) {
-      let cnt = 0;
-      for (let k = 0; k < m; k++) {
-        let pi = 0;
-        let pj = 0;
-        for (let s = 0; s < n; s++) {
-          if (arr[k][s] === i) pi = s;
-          if (arr[k][s] === j) pj = s;
-        }
-        if (pi < pj) cnt++;
-      }
-      if (cnt === m) {
-        tmp.push([i, j]);
-        answer++;
-      }
+  while (rt < arr.length) {
+    if (sum === m) {
+      answer++;
+      sum -= arr[lt];
+      lt++;
+    } else if (sum > m) {
+      sum -= arr[lt];
+      lt++;
+    } else {
+      rt++;
+      sum += arr[rt];
     }
   }
 
-  console.log(tmp);
   return answer;
 }
 
-let arr = [
-  [3, 4, 1, 2],
-  [4, 3, 2, 1],
-  [3, 1, 4, 2],
-];
-console.log(solution(arr));
+let a = [1, 2, 1, 3, 1, 1, 1, 2];
+console.log(solution(1, a));
