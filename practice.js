@@ -1,25 +1,34 @@
-function solution(m, arr) {
-  let answer = 0;
-  let lt = 0;
-  let rt = 0;
-  let sum = arr[lt];
+function solution(a, b) {
+  let answer = 'YES';
+  let aMap = new Map();
+  let bMap = new Map();
 
-  while (rt < arr.length) {
-    if (sum === m) {
-      answer++;
-      sum -= arr[lt];
-      lt++;
-    } else if (sum > m) {
-      sum -= arr[lt];
-      lt++;
+  for (let x of a) {
+    if (aMap.has(x)) {
+      aMap.set(x, aMap.get(x) + 1);
     } else {
-      rt++;
-      sum += arr[rt];
+      aMap.set(x, 1);
+    }
+  }
+
+  for (let x of b) {
+    if (bMap.has(x)) {
+      bMap.set(x, bMap.get(x) + 1);
+    } else {
+      bMap.set(x, 1);
+    }
+  }
+
+  for (let [key, value] of aMap) {
+    if (value !== bMap.get(key)) {
+      answer = 'NO';
+      break;
     }
   }
 
   return answer;
 }
 
-let a = [1, 2, 1, 3, 1, 1, 1, 2];
-console.log(solution(1, a));
+let a = 'AbaAeCea';
+let b = 'baeeACA';
+console.log(solution(a, b));
