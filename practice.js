@@ -1,25 +1,23 @@
 function solution(a) {
-  let answer = 'YES';
+  let answer = 0;
 
   let stack = [];
 
-  for (let x of a) {
-    if (x === '(') {
-      stack.push(x);
+  for (let i = 0; i < a.length; i++) {
+    if (a[i] === '(') {
+      stack.push(a[i]);
     } else {
-      if (stack.length === 0) {
-        return 'NO';
-      }
       stack.pop();
+      if (a[i - 1] === '(') {
+        answer += stack.length;
+      } else {
+        answer += 1;
+      }
     }
-  }
-
-  if (stack.length !== 0) {
-    return 'NO';
   }
 
   return answer;
 }
 
-let a = '()';
+let a = '()(((()())(())()))(())';
 console.log(solution(a));
