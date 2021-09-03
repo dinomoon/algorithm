@@ -105,9 +105,9 @@
 | 효율성             | [아나그램](<https://github.com/dinomoon/algorithm/blob/master/강의/05.%20효율성(투포인터%20알고리즘,%20슬라이딩윈도우,%20해쉬)/07.%20아나그램(Hash%20Map).md>)             |
 | 효율성             | [모든 아나그램 찾기](<https://github.com/dinomoon/algorithm/blob/master/강의/05.%20효율성(투포인터%20알고리즘,%20슬라이딩윈도우,%20해쉬)/08.%20모든%20아나그램%20찾기.md>) |
 | 자료구조(스택, 큐) | [올바른 괄호](<https://github.com/dinomoon/algorithm/blob/master/강의/06.%20자료구조(스택%20큐)/01.%20올바른%20괄호.md>)                                                   |
-| 자료구조(스택, 큐) | [괄호 문자 제거](<https://github.com/dinomoon/algorithm/blob/master/강의/06.%20자료구조(스택%20큐)/02.%20괄호%20문자%20제거.md>)                                           |
-| 자료구조(스택, 큐) | [크레인 인형뽑기](<https://github.com/dinomoon/algorithm/blob/master/강의/06.%20자료구조(스택%20큐)/03.%20크레인%20인형뽑기.md>)                                           |
-| 자료구조(스택, 큐) | [후위식 연산](<https://github.com/dinomoon/algorithm/blob/master/강의/06.%20자료구조(스택%20큐)/04.%20후위식%20연산.md>)                                                   |
-| 자료구조(스택, 큐) | [쇠막대기](<https://github.com/dinomoon/algorithm/blob/master/강의/06.%20자료구조(스택%20큐)/05.%20쇠막대기.md>)                                                           |
-| 자료구조(스택, 큐) | [공주 구하기](<https://github.com/dinomoon/algorithm/blob/master/강의/06.%20자료구조(스택%20큐)/06.%20공주20구하기.md>)                                                    |
-| 자료구조(스택, 큐) | [교육과정 설계](<https://github.com/dinomoon/algorithm/blob/master/강의/06.%20자료구조(스택%20큐)/07.%20교육과정%20설계.md>)                                               |
+| 자료구조(스택, 큐) | [괄호 문자 제거](<https://github.com/dinomoon/algorithm/blob/master/강의/06.%20자료구조(스택,%20큐)/02.%20괄호%20문자%20제거.md>)                                          |
+| 자료구조(스택, 큐) | [크레인 인형뽑기](<https://github.com/dinomoon/algorithm/blob/master/강의/06.%20자료구조(스택,%20큐)/03.%20크레인%20인형뽑기.md>)                                          |
+| 자료구조(스택, 큐) | [후위식 연산](<https://github.com/dinomoon/algorithm/blob/master/강의/06.%20자료구조(스택,%20큐)/04.%20후위식%20연산.md>)                                                  |
+| 자료구조(스택, 큐) | [쇠막대기](<https://github.com/dinomoon/algorithm/blob/master/강의/06.%20자료구조(스택,%20큐)/05.%20쇠막대기.md>)                                                          |
+| 자료구조(스택, 큐) | [공주 구하기](<https://github.com/dinomoon/algorithm/blob/master/강의/06.%20자료구조(스택,%20큐)/06.%20공주20구하기.md>)                                                   |
+| 자료구조(스택, 큐) | [교육과정 설계](<https://github.com/dinomoon/algorithm/blob/master/강의/06.%20자료구조(스택,%20큐)/07.%20교육과정%20설계.md>)                                              |
