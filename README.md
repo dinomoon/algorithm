@@ -22,6 +22,7 @@
 | 자료구조(스택, 큐)              | [쇠막대기](<https://github.com/dinomoon/algorithm/blob/master/강의/06.%20자료구조(스택,%20큐)/05.%20쇠막대기.md>)                                                          |
 | 자료구조(스택, 큐)              | [공주 구하기](<https://github.com/dinomoon/algorithm/blob/master/강의/06.%20자료구조(스택,%20큐)/06.%20공주20구하기.md>)                                                   |
 | 자료구조(스택, 큐)              | [교육과정 설계](<https://github.com/dinomoon/algorithm/blob/master/강의/06.%20자료구조(스택,%20큐)/07.%20교육과정%20설계.md>)                                              |
+| 재귀함수와 완전탐색(DFS)        | [부분집합 구하기](<https://github.com/dinomoon/algorithm/blob/master/강의/08.%20재귀함수와%20완전탐색(DFS)/04.%20부분집합%20구하기.md>)                                    |
 | Dynamic programming(동적계획법) | [계단오르기](https://github.com/dinomoon/algorithm/blob/master/강의/10.%20Dynamic%20Programming/01.%20계단오르기.md)                                                       |
 
 <br>
