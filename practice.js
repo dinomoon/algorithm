@@ -1,28 +1,30 @@
-function solution(n) {
-  let answer = [];
-  let check = Array.from({ length: n + 1 }, () => 0);
+function solution(arr) {
+  let answer = 0;
 
-  function DFS(v) {
-    if (v === n + 1) {
-      let tmp = '';
-      for (let i = 1; i <= check.length; i++) {
-        if (check[i]) {
-          tmp += i + ' ';
-        }
-      }
-      if (tmp.length > 0) {
-        answer.push(tmp.trim());
-      }
+  arr.sort((a, b) => {
+    if (a[1] === b[1]) {
+      return a[0] - b[0];
     } else {
-      check[v] = 1;
-      DFS(v + 1);
-      check[v] = 0;
-      DFS(v + 1);
+      return a[1] - b[1];
+    }
+  });
+
+  let endTime = 0;
+  for (let x of arr) {
+    if (x[0] >= endTime) {
+      answer++;
+      endTime = x[1];
     }
   }
-  DFS(1);
 
   return answer;
 }
 
-console.log(solution(3));
+let arr = [
+  [1, 4],
+  [2, 3],
+  [3, 5],
+  [4, 6],
+  [5, 7],
+];
+console.log(solution(arr));
