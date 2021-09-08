@@ -2,28 +2,30 @@
 
 ## [인프런 강의](https://www.inflearn.com/course/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/dashboard)
 
-| 분류                            | 문제                                                                                                                                                                       |
-| ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 기본문제                        | 세 수 중 최솟값                                                                                                                                                            |
-| 기본문제                        | 삼각형 판별하기                                                                                                                                                            |
-| 2차원 배열 탐색                 | [격자판 최대합](https://github.com/dinomoon/algorithm/blob/master/강의/02.%202차원%20배열%20탐색/06.%20격자판%20최대합.md)                                                 |
-| 2차원 배열 탐색                 | [봉우리](https://github.com/dinomoon/algorithm/blob/master/강의/02.%202차원%20배열%20탐색/07.%20봉우리.md)                                                                 |
-| 문자열 탐색                     | [가장 짧은 문자거리](https://github.com/dinomoon/algorithm/blob/master/강의/03.%20문자열%20탐색/04.%20가장%20짧은%20문자거리.md)                                           |
-| 완전탐색                        | [자리수의 합](https://github.com/dinomoon/algorithm/blob/master/강의/04.%20완전탐색/01.%20자리수의%20합.md)                                                                |
-| 완전탐색                        | [멘토링](https://github.com/dinomoon/algorithm/blob/master/강의/04.%20완전탐색/04.%20멘토링.md)                                                                            |
-| 효율성                          | [연속 부분수열](<https://github.com/dinomoon/algorithm/blob/master/강의/05.%20효율성(투포인터%20알고리즘,%20슬라이딩윈도우,%20해쉬)/01.%20연속%20부분수열.md>)             |
-| 효율성                          | [최대 매출](<https://github.com/dinomoon/algorithm/blob/master/강의/05.%20효율성(투포인터%20알고리즘,%20슬라이딩윈도우,%20해쉬)/05.%20최대%20매출.md>)                     |
-| 효율성                          | [아나그램](<https://github.com/dinomoon/algorithm/blob/master/강의/05.%20효율성(투포인터%20알고리즘,%20슬라이딩윈도우,%20해쉬)/07.%20아나그램(Hash%20Map).md>)             |
-| 효율성                          | [모든 아나그램 찾기](<https://github.com/dinomoon/algorithm/blob/master/강의/05.%20효율성(투포인터%20알고리즘,%20슬라이딩윈도우,%20해쉬)/08.%20모든%20아나그램%20찾기.md>) |
-| 자료구조(스택, 큐)              | [올바른 괄호](<https://github.com/dinomoon/algorithm/blob/master/강의/06.%20자료구조(스택,%20큐)/01.%20올바른%20괄호.md>)                                                  |
-| 자료구조(스택, 큐)              | [괄호 문자 제거](<https://github.com/dinomoon/algorithm/blob/master/강의/06.%20자료구조(스택,%20큐)/02.%20괄호%20문자%20제거.md>)                                          |
-| 자료구조(스택, 큐)              | [크레인 인형뽑기](<https://github.com/dinomoon/algorithm/blob/master/강의/06.%20자료구조(스택,%20큐)/03.%20크레인%20인형뽑기.md>)                                          |
-| 자료구조(스택, 큐)              | [후위식 연산](<https://github.com/dinomoon/algorithm/blob/master/강의/06.%20자료구조(스택,%20큐)/04.%20후위식%20연산.md>)                                                  |
-| 자료구조(스택, 큐)              | [쇠막대기](<https://github.com/dinomoon/algorithm/blob/master/강의/06.%20자료구조(스택,%20큐)/05.%20쇠막대기.md>)                                                          |
-| 자료구조(스택, 큐)              | [공주 구하기](<https://github.com/dinomoon/algorithm/blob/master/강의/06.%20자료구조(스택,%20큐)/06.%20공주20구하기.md>)                                                   |
-| 자료구조(스택, 큐)              | [교육과정 설계](<https://github.com/dinomoon/algorithm/blob/master/강의/06.%20자료구조(스택,%20큐)/07.%20교육과정%20설계.md>)                                              |
-| 재귀함수와 완전탐색(DFS)        | [부분집합 구하기](<https://github.com/dinomoon/algorithm/blob/master/강의/08.%20재귀함수와%20완전탐색(DFS)/04.%20부분집합%20구하기.md>)                                    |
-| Dynamic programming(동적계획법) | [계단오르기](https://github.com/dinomoon/algorithm/blob/master/강의/10.%20Dynamic%20Programming/01.%20계단오르기.md)                                                       |
+| 분류                                  | 문제                                                                                                                                                                       |
+| ------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 기본문제                              | 세 수 중 최솟값                                                                                                                                                            |
+| 기본문제                              | 삼각형 판별하기                                                                                                                                                            |
+| 2차원 배열 탐색                       | [격자판 최대합](https://github.com/dinomoon/algorithm/blob/master/강의/02.%202차원%20배열%20탐색/06.%20격자판%20최대합.md)                                                 |
+| 2차원 배열 탐색                       | [봉우리](https://github.com/dinomoon/algorithm/blob/master/강의/02.%202차원%20배열%20탐색/07.%20봉우리.md)                                                                 |
+| 문자열 탐색                           | [가장 짧은 문자거리](https://github.com/dinomoon/algorithm/blob/master/강의/03.%20문자열%20탐색/04.%20가장%20짧은%20문자거리.md)                                           |
+| 완전탐색                              | [자리수의 합](https://github.com/dinomoon/algorithm/blob/master/강의/04.%20완전탐색/01.%20자리수의%20합.md)                                                                |
+| 완전탐색                              | [멘토링](https://github.com/dinomoon/algorithm/blob/master/강의/04.%20완전탐색/04.%20멘토링.md)                                                                            |
+| 효율성                                | [연속 부분수열](<https://github.com/dinomoon/algorithm/blob/master/강의/05.%20효율성(투포인터%20알고리즘,%20슬라이딩윈도우,%20해쉬)/01.%20연속%20부분수열.md>)             |
+| 효율성                                | [최대 매출](<https://github.com/dinomoon/algorithm/blob/master/강의/05.%20효율성(투포인터%20알고리즘,%20슬라이딩윈도우,%20해쉬)/05.%20최대%20매출.md>)                     |
+| 효율성                                | [아나그램](<https://github.com/dinomoon/algorithm/blob/master/강의/05.%20효율성(투포인터%20알고리즘,%20슬라이딩윈도우,%20해쉬)/07.%20아나그램(Hash%20Map).md>)             |
+| 효율성                                | [모든 아나그램 찾기](<https://github.com/dinomoon/algorithm/blob/master/강의/05.%20효율성(투포인터%20알고리즘,%20슬라이딩윈도우,%20해쉬)/08.%20모든%20아나그램%20찾기.md>) |
+| 자료구조(스택, 큐)                    | [올바른 괄호](<https://github.com/dinomoon/algorithm/blob/master/강의/06.%20자료구조(스택,%20큐)/01.%20올바른%20괄호.md>)                                                  |
+| 자료구조(스택, 큐)                    | [괄호 문자 제거](<https://github.com/dinomoon/algorithm/blob/master/강의/06.%20자료구조(스택,%20큐)/02.%20괄호%20문자%20제거.md>)                                          |
+| 자료구조(스택, 큐)                    | [크레인 인형뽑기](<https://github.com/dinomoon/algorithm/blob/master/강의/06.%20자료구조(스택,%20큐)/03.%20크레인%20인형뽑기.md>)                                          |
+| 자료구조(스택, 큐)                    | [후위식 연산](<https://github.com/dinomoon/algorithm/blob/master/강의/06.%20자료구조(스택,%20큐)/04.%20후위식%20연산.md>)                                                  |
+| 자료구조(스택, 큐)                    | [쇠막대기](<https://github.com/dinomoon/algorithm/blob/master/강의/06.%20자료구조(스택,%20큐)/05.%20쇠막대기.md>)                                                          |
+| 자료구조(스택, 큐)                    | [공주 구하기](<https://github.com/dinomoon/algorithm/blob/master/강의/06.%20자료구조(스택,%20큐)/06.%20공주20구하기.md>)                                                   |
+| 자료구조(스택, 큐)                    | [교육과정 설계](<https://github.com/dinomoon/algorithm/blob/master/강의/06.%20자료구조(스택,%20큐)/07.%20교육과정%20설계.md>)                                              |
+| 정렬과 그리디, 결정알고리즘(이분검색) | [LRU(카카오캐시 변형)](<https://github.com/dinomoon/algorithm/blob/master/강의/07.%20정렬과%20그리디,%20결정알고리즘(이분검색)/05.%20LRU(카카오캐시%20변형).md>)           |
+| 정렬과 그리디, 결정알고리즘(이분검색) | [회의실 배정](<https://github.com/dinomoon/algorithm/blob/master/강의/07.%20정렬과%20그리디,%20결정알고리즘(이분검색)/08.%20회의실%20배정.md>)                             |
+| 재귀함수와 완전탐색(DFS)              | [부분집합 구하기](<https://github.com/dinomoon/algorithm/blob/master/강의/08.%20재귀함수와%20완전탐색(DFS)/04.%20부분집합%20구하기.md>)                                    |
+| Dynamic programming(동적계획법)       | [계단오르기](https://github.com/dinomoon/algorithm/blob/master/강의/10.%20Dynamic%20Programming/01.%20계단오르기.md)                                                       |
 
 <br>
 
