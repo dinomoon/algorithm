@@ -1,28 +1,19 @@
-function solution(str, s) {
-  let answer = [];
-  let p = 1000;
+function solution(arr) {
+  let answer;
+  let max = Number.MIN_SAFE_INTEGER;
 
-  for (let x of str) {
-    if (x === s) {
-      p = 0;
-      answer.push(p);
-    } else {
-      p++;
-      answer.push(p);
+  let sum;
+
+  for (let x of arr) {
+    sum = [...String(x)].reduce((a, b) => +a + +b);
+    if (sum > max) {
+      max = sum;
+      answer = x;
+    } else if (sum === max && x > answer) {
+      answer = x;
     }
   }
-
-  p = 1000;
-  for (let i = str.length - 1; i >= 0; i--) {
-    if (str[i] === s) {
-      p = 0;
-    } else {
-      p++;
-      answer[i] = Math.min(answer[i], p);
-    }
-  }
-
   return answer;
 }
-let str = 'teachermode';
-console.log(solution(str, 'e'));
+let arr = [128, 460, 603, 40, 521, 137, 123, 1298361293];
+console.log(solution(arr));
