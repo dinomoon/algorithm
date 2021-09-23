@@ -1,14 +1,15 @@
-def solution(t, k):
-  result  = 0
-  while k != 0:
-    for i in range(len(t)):
-      if t[i] != 0:
-        t[i] -= 1
-      else:
-        t[i + 1] -= 1
-      k -= 1
-      result = i
+n = int(input())
+answer = 0
 
-  print(result)
+def isPrime(n):
+    for i in range(2, n):
+        print(i)
+        if (n % i == 0):
+            return False
+    return True
 
-solution([3, 1, 2], 5)
+for i in range(2, n + 1):
+    if (isPrime(i)):
+        answer += 1
+
+print(answer)
