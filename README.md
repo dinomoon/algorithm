@@ -26,6 +26,7 @@
 | 정렬과 그리디, 결정알고리즘(이분검색) | [회의실 배정](<https://github.com/dinomoon/algorithm/blob/master/강의/07.%20정렬과%20그리디,%20결정알고리즘(이분검색)/08.%20회의실%20배정.md>)                             |
 | 정렬과 그리디, 결정알고리즘(이분검색) | [결혼식](<https://github.com/dinomoon/algorithm/blob/master/강의/07.%20정렬과%20그리디,%20결정알고리즘(이분검색)/09.%20결혼식.md>)                                         |
 | 재귀함수와 완전탐색(DFS)              | [이진수 출력](<https://github.com/dinomoon/algorithm/blob/master/강의/08.%20재귀함수와%20완전탐색(DFS)/02.%20이진수%20출력.md>)                                            |
+| 재귀함수와 완전탐색(DFS)              | [이진트리 순회](<https://github.com/dinomoon/algorithm/blob/master/강의/08.%20재귀함수와%20완전탐색(DFS)/03.%20이진트리%20순회.md>)                                        |
 | 재귀함수와 완전탐색(DFS)              | [부분집합 구하기](<https://github.com/dinomoon/algorithm/blob/master/강의/08.%20재귀함수와%20완전탐색(DFS)/04.%20부분집합%20구하기.md>)                                    |
 | Dynamic programming(동적계획법)       | [계단오르기](https://github.com/dinomoon/algorithm/blob/master/강의/10.%20Dynamic%20Programming/01.%20계단오르기.md)                                                       |
 | Dynamic programming(동적계획법)       | [최대부분증가수열](https://github.com/dinomoon/algorithm/blob/master/강의/10.%20Dynamic%20Programming/03.%20최대부분증가수열.md)                                           |
