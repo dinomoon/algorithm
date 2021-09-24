@@ -28,6 +28,7 @@
 | 재귀함수와 완전탐색(DFS)              | [이진수 출력](<https://github.com/dinomoon/algorithm/blob/master/강의/08.%20재귀함수와%20완전탐색(DFS)/02.%20이진수%20출력.md>)                                            |
 | 재귀함수와 완전탐색(DFS)              | [이진트리 순회](<https://github.com/dinomoon/algorithm/blob/master/강의/08.%20재귀함수와%20완전탐색(DFS)/03.%20이진트리%20순회.md>)                                        |
 | 재귀함수와 완전탐색(DFS)              | [부분집합 구하기](<https://github.com/dinomoon/algorithm/blob/master/강의/08.%20재귀함수와%20완전탐색(DFS)/04.%20부분집합%20구하기.md>)                                    |
+| 재귀함수와 완전탐색(DFS)              | [합이 같은 부분집합](<https://github.com/dinomoon/algorithm/blob/master/강의/08.%20재귀함수와%20완전탐색(DFS)/05.%20합이%20같은%20부분집합.md>)                            |
 | Dynamic programming(동적계획법)       | [계단오르기](https://github.com/dinomoon/algorithm/blob/master/강의/10.%20Dynamic%20Programming/01.%20계단오르기.md)                                                       |
 | Dynamic programming(동적계획법)       | [최대부분증가수열](https://github.com/dinomoon/algorithm/blob/master/강의/10.%20Dynamic%20Programming/03.%20최대부분증가수열.md)                                           |
 | Dynamic programming(동적계획법)       | [동전교환](https://github.com/dinomoon/algorithm/blob/master/강의/10.%20Dynamic%20Programming/04.%20동전교환.md)                                                           |
