@@ -30,6 +30,7 @@
 | 재귀함수와 완전탐색(DFS)              | [부분집합 구하기](<https://github.com/dinomoon/algorithm/blob/master/강의/08.%20재귀함수와%20완전탐색(DFS)/04.%20부분집합%20구하기.md>)                                    |
 | 재귀함수와 완전탐색(DFS)              | [합이 같은 부분집합](<https://github.com/dinomoon/algorithm/blob/master/강의/08.%20재귀함수와%20완전탐색(DFS)/05.%20합이%20같은%20부분집합.md>)                            |
 | 재귀함수와 완전탐색(DFS)              | [바둑이 승차](<https://github.com/dinomoon/algorithm/blob/master/강의/08.%20재귀함수와%20완전탐색(DFS)/06.%20바둑이%20승차.md>)                                            |
+| 재귀함수와 완전탐색(DFS)              | [최대 점수 구하기](<https://github.com/dinomoon/algorithm/blob/master/강의/08.%20재귀함수와%20완전탐색(DFS)/07.%20최대%20점수%20구하기.md>)                                |
 | Dynamic programming(동적계획법)       | [계단오르기](https://github.com/dinomoon/algorithm/blob/master/강의/10.%20Dynamic%20Programming/01.%20계단오르기.md)                                                       |
 | Dynamic programming(동적계획법)       | [최대부분증가수열](https://github.com/dinomoon/algorithm/blob/master/강의/10.%20Dynamic%20Programming/03.%20최대부분증가수열.md)                                           |
 | Dynamic programming(동적계획법)       | [동전교환](https://github.com/dinomoon/algorithm/blob/master/강의/10.%20Dynamic%20Programming/04.%20동전교환.md)                                                           |
