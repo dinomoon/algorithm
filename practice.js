@@ -1,35 +1,20 @@
-function solution(b, arr) {
-  let answer = Number.MIN_SAFE_INTEGER;
-  const n = arr.length;
-
-  // 정렬
-  arr.sort((a, b) => a[0] + a[1] - (b[0] + b[1]));
+function solution(n, k, arr) {
+  let answer;
+  let set = new Set();
 
   for (let i = 0; i < n; i++) {
-    const sale = arr[i][0] / 2 + arr[i][1];
-    let budget = b - sale;
-    let cnt = 1;
-
-    for (let j = 0; j < n; j++) {
-      let purchase = arr[j][0] + arr[j][1];
-
-      if (i !== j && purchase > budget) break;
-      if (i !== j && purchase <= budget) {
-        budget -= purchase;
-        cnt++;
+    for (let j = i + 1; j < n; j++) {
+      for (let k = j + 1; k < n; k++) {
+        set.add(arr[i] + arr[j] + arr[k]);
       }
     }
-    answer = Math.max(answer, cnt);
   }
+
+  let sortedArr = Array.from(set).sort((a, b) => b - a);
+  answer = sortedArr[k - 1];
 
   return answer;
 }
 
-let arr = [
-  [6, 6],
-  [2, 2],
-  [4, 3],
-  [4, 5],
-  [10, 3],
-];
-console.log(solution(28, arr));
+let arr = [13, 15, 34, 23, 45, 65, 33, 11, 26, 42];
+console.log(solution(10, 3, arr));
