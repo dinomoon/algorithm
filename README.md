@@ -12,6 +12,7 @@
 | 문자열 탐색                           | [회문문자열](https://github.com/dinomoon/algorithm/blob/master/강의/03.%20문자열%20탐색/01.%20회문문자열.md)                                                               |
 | 문자열 탐색                           | [유효한 펠린드롬](https://github.com/dinomoon/algorithm/blob/master/강의/03.%20문자열%20탐색/02.%20유효한%20펠린드롬.md)                                                   |
 | 문자열 탐색                           | [가장 짧은 문자거리](https://github.com/dinomoon/algorithm/blob/master/강의/03.%20문자열%20탐색/04.%20가장%20짧은%20문자거리.md)                                           |
+| 문자열 탐색                           | [문자열 압축](https://github.com/dinomoon/algorithm/blob/master/강의/03.%20문자열%20탐색/05.%20문자열%20압축.md)                                                           |
 | 완전탐색                              | [자리수의 합](https://github.com/dinomoon/algorithm/blob/master/강의/04.%20완전탐색/01.%20자리수의%20합.md)                                                                |
 | 완전탐색                              | [멘토링](https://github.com/dinomoon/algorithm/blob/master/강의/04.%20완전탐색/03.%20멘토링.md)                                                                            |
 | 효율성                                | [연속 부분수열](<https://github.com/dinomoon/algorithm/blob/master/강의/05.%20효율성(투포인터%20알고리즘,%20슬라이딩윈도우,%20해쉬)/01.%20연속%20부분수열.md>)             |
