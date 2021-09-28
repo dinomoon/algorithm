@@ -1,17 +1,15 @@
-function solution(arr) {
-  let n = arr.length;
-  answer = Array.from({ length: n }, () => 1);
+function solution(str) {
+  let answer = 'YES';
 
-  for (let i = 0; i < n; i++) {
-    for (let j = 0; j < n; j++) {
-      if (arr[j] > arr[i]) {
-        answer[i]++;
-      }
-    }
+  str = str.toLowerCase();
+  let strReverse = [...str].reverse().join('');
+
+  if (str !== strReverse) {
+    return 'NO';
   }
 
   return answer;
 }
 
-let arr = [87, 89, 92, 100, 76];
-console.log(solution(arr));
+let str = 'gooooooG';
+console.log(solution(str));
