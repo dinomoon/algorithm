@@ -15,6 +15,7 @@
 | 문자열 탐색                           | [문자열 압축](https://github.com/dinomoon/algorithm/blob/master/강의/03.%20문자열%20탐색/05.%20문자열%20압축.md)                                                           |
 | 완전탐색                              | [자리수의 합](https://github.com/dinomoon/algorithm/blob/master/강의/04.%20완전탐색/01.%20자리수의%20합.md)                                                                |
 | 완전탐색                              | [멘토링](https://github.com/dinomoon/algorithm/blob/master/강의/04.%20완전탐색/03.%20멘토링.md)                                                                            |
+| 완전탐색                              | [졸업선물](https://github.com/dinomoon/algorithm/blob/master/강의/04.%20완전탐색/04.%20졸업선물.md)                                                                        |
 | 효율성                                | [연속 부분수열](<https://github.com/dinomoon/algorithm/blob/master/강의/05.%20효율성(투포인터%20알고리즘,%20슬라이딩윈도우,%20해쉬)/01.%20연속%20부분수열.md>)             |
 | 효율성                                | [최대 매출](<https://github.com/dinomoon/algorithm/blob/master/강의/05.%20효율성(투포인터%20알고리즘,%20슬라이딩윈도우,%20해쉬)/05.%20최대%20매출.md>)                     |
 | 효율성                                | [아나그램](<https://github.com/dinomoon/algorithm/blob/master/강의/05.%20효율성(투포인터%20알고리즘,%20슬라이딩윈도우,%20해쉬)/07.%20아나그램(Hash%20Map).md>)             |
