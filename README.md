@@ -10,6 +10,7 @@
 | 2차원 배열 탐색                       | [격자판 최대합](https://github.com/dinomoon/algorithm/blob/master/강의/02.%202차원%20배열%20탐색/06.%20격자판%20최대합.md)                                                 |
 | 2차원 배열 탐색                       | [봉우리](https://github.com/dinomoon/algorithm/blob/master/강의/02.%202차원%20배열%20탐색/07.%20봉우리.md)                                                                 |
 | 문자열 탐색                           | [회문문자열](https://github.com/dinomoon/algorithm/blob/master/강의/03.%20문자열%20탐색/01.%20회문문자열.md)                                                               |
+| 문자열 탐색                           | [유효한 펠린드롬](https://github.com/dinomoon/algorithm/blob/master/강의/03.%20문자열%20탐색/02.%20유효한%20펠린드롬.md)                                                   |
 | 문자열 탐색                           | [가장 짧은 문자거리](https://github.com/dinomoon/algorithm/blob/master/강의/03.%20문자열%20탐색/04.%20가장%20짧은%20문자거리.md)                                           |
 | 완전탐색                              | [자리수의 합](https://github.com/dinomoon/algorithm/blob/master/강의/04.%20완전탐색/01.%20자리수의%20합.md)                                                                |
 | 완전탐색                              | [멘토링](https://github.com/dinomoon/algorithm/blob/master/강의/04.%20완전탐색/03.%20멘토링.md)                                                                            |

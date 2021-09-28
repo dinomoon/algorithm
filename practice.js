@@ -1,15 +1,13 @@
 function solution(str) {
   let answer = 'YES';
 
-  str = str.toLowerCase();
-  let strReverse = [...str].reverse().join('');
-
-  if (str !== strReverse) {
+  str = str.toLowerCase().replace(/[^a-z]/g, '');
+  if (str !== str.split('').reverse().join('')) {
     return 'NO';
   }
 
   return answer;
 }
 
-let str = 'gooooooG';
+let str = 'found7, time: study; Yduts; emit, 7Dnuof';
 console.log(solution(str));
