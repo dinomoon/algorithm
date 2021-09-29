@@ -1,20 +1,29 @@
-function solution(n, k, arr) {
-  let answer;
-  let set = new Set();
+function solution(a, b) {
+  let answer = [];
+  let m = a.length;
+  let n = b.length;
+  let p1 = 0;
+  let p2 = 0;
 
-  for (let i = 0; i < n; i++) {
-    for (let j = i + 1; j < n; j++) {
-      for (let k = j + 1; k < n; k++) {
-        set.add(arr[i] + arr[j] + arr[k]);
-      }
+  while (p1 < m && p2 < n) {
+    if (a[p1] <= b[p2]) {
+      answer.push(a[p1++]);
+    } else {
+      answer.push(b[p2++]);
     }
   }
 
-  let sortedArr = Array.from(set).sort((a, b) => b - a);
-  answer = sortedArr[k - 1];
+  while (p1 < m) {
+    answer.push(a[p1++]);
+  }
+
+  while (p2 < n) {
+    answer.push(b[p2++]);
+  }
 
   return answer;
 }
 
-let arr = [13, 15, 34, 23, 45, 65, 33, 11, 26, 42];
-console.log(solution(10, 3, arr));
+let a = [1, 3, 5];
+let b = [2, 3, 6, 7, 9];
+console.log(solution(a, b));
