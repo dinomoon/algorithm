@@ -32,6 +32,7 @@
 | 자료구조(스택, 큐)                    | [쇠막대기](<https://github.com/dinomoon/algorithm/blob/master/강의/06.%20자료구조(스택,%20큐)/05.%20쇠막대기.md>)                                                          |
 | 자료구조(스택, 큐)                    | [공주 구하기](<https://github.com/dinomoon/algorithm/blob/master/강의/06.%20자료구조(스택,%20큐)/06.%20공주20구하기.md>)                                                   |
 | 자료구조(스택, 큐)                    | [교육과정 설계](<https://github.com/dinomoon/algorithm/blob/master/강의/06.%20자료구조(스택,%20큐)/07.%20교육과정%20설계.md>)                                              |
+| 정렬과 그리디, 결정알고리즘(이분검색) | [Special Sort](<https://github.com/dinomoon/algorithm/blob/master/강의/07.%20정렬과%20그리디,%20결정알고리즘(이분검색)/03.%20Special%20Sort).md>)                          |
 | 정렬과 그리디, 결정알고리즘(이분검색) | [LRU(카카오캐시 변형)](<https://github.com/dinomoon/algorithm/blob/master/강의/07.%20정렬과%20그리디,%20결정알고리즘(이분검색)/05.%20LRU(카카오캐시%20변형).md>)           |
 | 정렬과 그리디, 결정알고리즘(이분검색) | [회의실 배정](<https://github.com/dinomoon/algorithm/blob/master/강의/07.%20정렬과%20그리디,%20결정알고리즘(이분검색)/08.%20회의실%20배정.md>)                             |
 | 정렬과 그리디, 결정알고리즘(이분검색) | [결혼식](<https://github.com/dinomoon/algorithm/blob/master/강의/07.%20정렬과%20그리디,%20결정알고리즘(이분검색)/09.%20결혼식.md>)                                         |
