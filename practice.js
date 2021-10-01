@@ -1,14 +1,17 @@
 function solution(arr) {
   let answer;
 
-  for (let i = 0; i < arr.length; i++) {
-    let idx = i;
-    for (let j = i + 1; j < arr.length; j++) {
-      if (arr[j] < arr[idx]) {
-        idx = j;
+  for (let i = 1; i < arr.length; i++) {
+    let tmp = arr[i];
+    let j;
+    for (j = i - 1; j >= 0; j--) {
+      if (arr[j] > tmp) {
+        arr[j + 1] = arr[j];
+      } else {
+        break;
       }
     }
-    [arr[i], arr[idx]] = [arr[idx], arr[i]];
+    arr[j + 1] = tmp;
   }
 
   return arr;
