@@ -73,6 +73,7 @@
 | [이진 탐색](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/5.%20이진%20탐색/README.md)                     | [부품 찾기](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/5.%20이진%20탐색/부품%20찾기.md)                   |
 | [다이나믹 프로그래밍](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/6.%20다이나믹%20프로그래밍/README.md) | [1로 만들기](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/6.%20다이나믹%20프로그래밍/1로%20만들기.md)       |
 |                                                                                                                                | [개미 전사](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/6.%20다이나믹%20프로그래밍/개미%20전사.md)         |
+|                                                                                                                                | [바닥 공사](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/6.%20다이나믹%20프로그래밍/바닥%20공사.md)         |
 | [최단 경로](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/7.%20최단%20경로/README.md)                     |                                                                                                                                   |
 | [그래프 이론](https://github.com/dinomoon/Algorithm/blob/master/ThisIsCodingTest/8.%20그래프%20이론/README.md)                 |                                                                                                                                   |
 
